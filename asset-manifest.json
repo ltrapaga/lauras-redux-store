@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lauras-redux-store/static/css/main.60e35a66.chunk.css",
+    "main.js": "/lauras-redux-store/static/js/main.01fc0a45.chunk.js",
+    "main.js.map": "/lauras-redux-store/static/js/main.01fc0a45.chunk.js.map",
+    "runtime-main.js": "/lauras-redux-store/static/js/runtime-main.ada02623.js",
+    "runtime-main.js.map": "/lauras-redux-store/static/js/runtime-main.ada02623.js.map",
+    "static/js/2.136629d5.chunk.js": "/lauras-redux-store/static/js/2.136629d5.chunk.js",
+    "static/js/2.136629d5.chunk.js.map": "/lauras-redux-store/static/js/2.136629d5.chunk.js.map",
+    "index.html": "/lauras-redux-store/index.html",
+    "static/css/main.60e35a66.chunk.css.map": "/lauras-redux-store/static/css/main.60e35a66.chunk.css.map",
+    "static/js/2.136629d5.chunk.js.LICENSE.txt": "/lauras-redux-store/static/js/2.136629d5.chunk.js.LICENSE.txt",
+    "static/media/spinner.7e729fec.gif": "/lauras-redux-store/static/media/spinner.7e729fec.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ada02623.js",
+    "static/js/2.136629d5.chunk.js",
+    "static/css/main.60e35a66.chunk.css",
+    "static/js/main.01fc0a45.chunk.js"
+  ]
+}
