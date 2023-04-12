@@ -34,7 +34,6 @@ function CategoryMenu() {
       });
     }
   }, [categoryData, loading, dispatch]);
-  console.log(categoryData);
 
   const handleClick = (id) => {
     dispatch({
