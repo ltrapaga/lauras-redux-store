@@ -1,5 +1,6 @@
 {
   "name": "mern-shopping",
+  "homepage": "https://ltrapaga.github.io/lauras-redux-store/",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -15,5 +16,8 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
