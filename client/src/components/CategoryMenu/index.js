@@ -34,6 +34,7 @@ function CategoryMenu() {
       });
     }
   }, [categoryData, loading, dispatch]);
+  console.log(categoryData);
 
   const handleClick = (id) => {
     dispatch({
@@ -47,7 +48,7 @@ function CategoryMenu() {
       <h2>Choose a Category:</h2>
       {categories.map((item) => (
         <button
-          key={item._id}
+          Key={item._id}
           onClick={() => {
             handleClick(item._id);
           }}
